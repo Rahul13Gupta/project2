@@ -15,6 +15,7 @@ public class selenium1 {
 	driver.manage().window().fullscreen();
     driver.findElement(By.xpath("//input[@class='gLFyf gsfi']")).sendKeys("selenium drivers");
 	driver.findElement(By.xpath("//Input[@class=' gNO89b']")).submit(); 
+	//step
 	}
 
 }
